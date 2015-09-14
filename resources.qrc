@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="save_image">icons/save_image.png</file>
+        <file alias="exit">icons/exit.png</file>
+        <file alias="app_icon">icons/plot.png</file>
+        <file alias="about">icons/about.png</file>
+        <file alias="yt_logo">icons/yt_logo.png</file>
+        <file alias="andriod_app_logo">icons/android_app_logo.png</file>
+        <file alias="app_logo">icons/ch_p_logo.png</file>
+    </qresource>
+</RCC>
